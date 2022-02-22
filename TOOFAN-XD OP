@@ -38,7 +38,7 @@ _setting_bot () {
     cd $TOOFAN-XDPATH
     echo "    😈 TOOFAN-XD IS COMING.😈"
     echo "
-    🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳
+    🔥❤️😈
     "
 
     python3 ../setup/updater.py ../requirements.txt requirements.txt
