@@ -2,7 +2,7 @@
 <b> ᴛᴏᴏꜰᴀɴ ᴜꜱᴇʀʙᴏᴛ  </b>
 </h1>
 
-[![TOOFAN-XDBOT] https://te.legra.ph/file/c054f7487566bf4f06006.jpg](https://github.com/OPTIMUS-DEVIL/TOOFAN-XDT)
+[![TOOFAN-XDBOT] https:/t.me/toofan_xd_userbot](https://github.com/OPTIMUS-DEVIL/TOOFAN-XDT)
 
 <h6 align="center">
   <b> 💖 BROUGHT TO YOU BY @OPTIMUS_DEVIL 💖
