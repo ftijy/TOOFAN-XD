@@ -130,7 +130,7 @@ https://youtube.com/channel/UCjUK51FFLOzZ7087NaND1ng)
 - Paste the OTP received on Telegram.
 - If You have Enabled 2-Step Verification then fill your password.
 - Note that Termux Doesn't show passwords when filled. Just paste your password and hit enter.
-- Your LegendBot Session Will be saved in your Telegram Saved Message.
+- Your TOOFAN-XD Session Will be saved in your Telegram Saved Message.
 
 
 ------
@@ -149,9 +149,9 @@ https://youtube.com/channel/UCjUK51FFLOzZ7087NaND1ng)
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-LEGEND-OS
+OPTIMUS-DEVIL
 
-Poject [TOOFAN-XD USERBOT](https://github.com/OPTIMUS-DEVIL/TOOFAN-XD) is free software: you can redistribute it and/or modify
+PROJECT [TOOFAN-XD USERBOT](https://github.com/OPTIMUS-DEVIL/TOOFAN-XD) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
