@@ -2,7 +2,7 @@
 <b> ᴛᴏᴏꜰᴀɴ ᴜꜱᴇʀʙᴏᴛ  </b>
 </h1>
 
- https:/t.me/toofan_xd_userbot](https://github.com/OPTIMUS-DEVIL/TOOFAN-XDT)
+ https:/t.me/toofan_xd_userbot
 
 <h6 align="center">
   <b> 💖 BROUGHT TO YOU BY @OPTIMUS_DEVIL 💖
