@@ -1,5 +1,5 @@
 <h1 align="center">
-<b>🔥 ᴛᴏᴏꜰᴀɴ ᴜꜱᴇʀʙᴏᴛ 🔥 </b>
+<b> ᴛᴏᴏꜰᴀɴ ᴜꜱᴇʀʙᴏᴛ  </b>
 </h1>
 
 [![TOOFAN-XDBOT] https://te.legra.ph/file/c054f7487566bf4f06006.jpg](https://github.com/OPTIMUS-DEVIL/TOOFAN-XDT)
