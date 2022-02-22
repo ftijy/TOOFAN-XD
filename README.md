@@ -149,7 +149,7 @@ https://youtube.com/channel/UCjUK51FFLOzZ7087NaND1ng)
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-OPTIMUS-DEVIL
+OPTIMUS- DEVIL
 
 PROJECT [TOOFAN-XD USERBOT](https://github.com/OPTIMUS-DEVIL/TOOFAN-XD) is free software: you can redistribute it and/or modify
 
