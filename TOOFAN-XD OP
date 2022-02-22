@@ -5,10 +5,10 @@ _get_repolink () {
     regex='(https?)://github.com/.+/.+'
     if [[ $TOOFAN_REPO == "TOOFANBOT" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL1RoZS1MZWdlbmRCb3QvTEVHRU5EVVNFUkJPVC9hcmNoaXZlL0xlZ2VuZEJvdC56aXA=" | base64 -d
+        echo "inm& 1 8@7܆+g" | base64 -d
     elif [[ $TOOFAN_REPO == "TOOFANBOT" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL1RoZS1MZWdlbmRCb3QvTEVHRU5EVVNFUkJPVC9hcmNoaXZlL0xlZ2VuZEJvdC56aXA=" | base64 -d
+        echo "inm& 1 8@7܆+g" | base64 -d
     elif [[ $TOOFAN_REPO =~ $regex ]]
     then
         if [[ $TOOFAN_REPO_BRANCH ]]
@@ -18,7 +18,7 @@ _get_repolink () {
             echo "${TOOFAN_REPO}/archive/master.zip"
         fi
     else
-        echo "aHR0cHM6Ly9naXRodWIuY29tL1RoZS1MZWdlbmRCb3QvTEVHRU5EVVNFUkJPVC9hcmNoaXZlL0xlZ2VuZEJvdC56aXA=" | base64 -d
+        echo "inm& 1 8@7܆+g" | base64 -d
     fi
 }
 
