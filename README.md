@@ -2,12 +2,16 @@
 <b> ᴛᴏᴏꜰᴀɴ ᴜꜱᴇʀʙᴏᴛ  </b>
 </h1>
 
- https:/t.me/toofan_xd_userbot
+ 💖 BROUGHT TO YOU BY @OPTIMUS_DEVIL 💖
+
+⚡TOOFAN-XD IS One Of The Best , Fastest & Smoothest Bot On Telegram Based on Telethon⚡
+✔️CREATED THIS USERBOT WITH THE SUPPORT OF OTHER USERBOT ON TELEGRAM, SPECIALLY LEGEND USERBOT.
 
 <h6 align="center">
-  <b> 💖 BROUGHT TO YOU BY @OPTIMUS_DEVIL 💖
+  <b> https:/t.me/toofan_xd_userbot
 
-⚡TOOFAN-XD IS One Of The Best , Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
+
+</b>
 </h6>
 
 <p align="center">
