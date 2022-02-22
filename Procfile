@@ -1,1 +1,1 @@
-worker: bash LegendBot
+worker: bash TOOFAN-XD USERBot
