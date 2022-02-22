@@ -1,13 +1,13 @@
 <h1 align="center">
-<b> 『t໐໐fคຖ นŞēr๖໐t』🔥 </b>
+<b> ᴛᴏᴏꜰᴀɴ ᴜꜱᴇʀʙᴏᴛ 🔥 </b>
 </h1>
 
 [![TOOFAN-XDBOT] https://te.legra.ph/file/c054f7487566bf4f06006.jpg](https://github.com/OPTIMUS-DEVIL/TOOFAN-XDT)
 
 <h6 align="center">
-  <b>⚡ MADE BY @OPTIMUS_DEVIL 
+  <b>⚡ BROUGHT TO YOU BY @OPTIMUS_DEVIL ⚡
 
-TOOFAN-XD IS One Of The Best,Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
+⚡TOOFAN-XD IS One Of The Best,Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
 </h6>
 
 <p align="center">
