@@ -42,9 +42,9 @@
 
 ------
 ## YouTube 
-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvp8PY25PTRhFDZjLv3sVfg?style=social)](https://youtube.com/channel/UCvp8PY25PTRhFDZjLv3sVfg)
-- [![YouTube Video Views](https://img.shields.io/youtube/views/9dQgdUJfk_k?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/9dQgdUJfk_k)
-
+- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvp8PY25PTRhFDZjLv3sVfg?style=social)](https://youtube.com/channel/UCjUK51FFLOzZ7087NaND1ng)
+- [![YouTube Video Views](https://img.shields.io/youtube/views/9dQgdUJfk_k?label=Tutorial+•+Heroku+•&style=social)](
+https://youtube.com/channel/UCjUK51FFLOzZ7087NaND1ng)
 ------------
 <h3> Dєρℓογ το нєяοκυ </h3>
 
@@ -62,14 +62,14 @@
 
 - [![Deploy](https://telegra.ph/file/1ded5ead2f8cc5828897a.jpg)](https://heroku.com/deploy/)
 
-## Deploy Locally
+## Deploy To Herkou 
 
 - Clone the repo. 
 
-`git clone https://github.com/The-LegendBot/LEGENDUSERBOT.git`
+`git clone https://github.com/OPTIMUS-DEVIL/TOOFAN-XD.git`
 - Open Cloned Folder.
 
-`cd LEGENDUSERBOT`
+`cd TOOFAN-XD USERBOT`
 - Create VirtualEnv.
 
 `virtualenv -p /usr/bin/python3 venv`
@@ -84,7 +84,7 @@
 - Create config.py or rename exampleconfig.py to config.py. Fill All The Required Variables.
 - Finally Start LegendBot By Vps
 
-`bash ./LEGENDBOT/start.sh`
+`bash ./TOOFAN-XD/start.sh`
 
 ---------
 
@@ -151,7 +151,7 @@
 
 LEGEND-OS
 
-Poject [LEGENDBOT](https://github.com/LEGEND-OS/LEGENDBOT) is free software: you can redistribute it and/or modify
+Poject [TOOFAN-XD USERBOT](https://github.com/OPTIMUS-DEVIL/TOOFAN-XD) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
