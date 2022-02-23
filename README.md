@@ -16,7 +16,7 @@ CREATED THIS USERBOT WITH THE SUPPORT OF OTHER USERBOT ON TELEGRAM, SPECIALLY LE
 
 <p align="center">
 <a href="https://github.com/OPTIMUS-DEVIL/TOOFAN-XD" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/OPTIMUS-DEVIL/TOOFAN-XD?style=flat&logo=github&color=success" /> </a>
-<a href="https://github.com/OPTIMUS-DEVIL/TOOFAN-XD/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/LEGEND-OS/LEGENDBOT?style=flat&logo=github" /> </a>
+<a href="https://github.com/OPTIMUS-DEVIL/TOOFAN-XD/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/OPTIMUS-DEVIL/TOOFAN-XD?style=flat&logo=github" /> </a>
 <a href="https://github.com/OPTIMUS-DEVIL/TOOFAN-XD/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/OPTIMUS-DEVIL/TOOFAN-XD?label=Forks&logo=github" /> </a>
 <a href="https://github.com/OPTIMUS-DEVIL/TOOFAN-XD" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/OPTIMUS-DEVIL/TOOFAN-XD?color=success" /> </a>
 <a href="https://github.com/OPTIMUS-DEVIL/TOOFAN-XD" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/OPTIMUS-DEVIL/TOOFAN-XD?style=flat&logo=github&Tcolor=yellow" /> </a>
@@ -41,7 +41,7 @@ CREATED THIS USERBOT WITH THE SUPPORT OF OTHER USERBOT ON TELEGRAM, SPECIALLY LE
 
 ------
 ## Telegram 🏪
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/toofan_xd_userbot)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/toofan_userbot_support)
 - [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Toofan_Userbot)
 
 ------
