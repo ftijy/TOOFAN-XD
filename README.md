@@ -4,8 +4,8 @@
 
  💖 BROUGHT TO YOU BY @OPTIMUS_DEVIL 💖
 
-⚡TOOFAN-XD IS One Of The Best , Fastest & Smoothest Bot On Telegram Based on Telethon⚡
-CREATED THIS USERBOT WITH THE SUPPORT OF OTHER USERBOT ON TELEGRAM, SPECIALLY LEGEND USERBOT.
+⚡TOOFAN is One Of The Best , Fastest & Smoothest Bot On Telegram Based on Telethon⚡
+
 
 <h6 align="center">
   <img src= "https://te.legra.ph/file/c2bef2bcc23257d409f71.jpg" (t.me/toofan_userbot)
@@ -83,11 +83,11 @@ https://youtube.com/channel/UCjUK51FFLOzZ7087NaND1ng)
 - Install Requirements.
 
 `pip install -U -r requirements.txt`
-- Generate Legend STRING.
+- Generate Toofan STRING.
 
-`python LegendString.py`
+`python ToofanString.py`
 - Create config.py or rename exampleconfig.py to config.py. Fill All The Required Variables.
-- Finally Start LegendBot By Vps
+- Finally Start Toofan Bot By Vps
 
 `bash ./TOOFAN-XD/start.sh`
 
