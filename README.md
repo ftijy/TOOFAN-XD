@@ -64,7 +64,7 @@ https://youtube.com/channel/UCjUK51FFLOzZ7087NaND1ng)
 - Click Below Deploy To Heroku
 
 
-- [![Deploy](https://te.legra.ph/file/42b9622b93acee1e543c1.jpg)](https://heroku.com/deploy/)
+- [![Deploy](https://te.legra.ph/file/5bcc8af3d039a5360ab90.jpg)](https://heroku.com/deploy/)
 
 ## Deploy To Herkou 
 
@@ -117,7 +117,7 @@ https://youtube.com/channel/UCjUK51FFLOzZ7087NaND1ng)
     - Now Run StringSession Given Below:
    
 
-[![String](https://te.legra.ph/file/9106a7495574da5aad243.jpg)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
+[![String](https://te.legra.ph/file/f1e47963264ace95e231f.jpg)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
 
     - Click On Generate String
     - Then Click On Green Run Button.
