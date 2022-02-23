@@ -8,7 +8,7 @@
 
 
 <h6 align="center">
-  <img src= "https://te.legra.ph/file/c2bef2bcc23257d409f71.jpg" (t.me/toofan_userbot)
+  <img src= "https://te.legra.ph/file/9baafdfca9aafe618bf8c.jpg" (t.me/toofan_userbot)
    
 
 
