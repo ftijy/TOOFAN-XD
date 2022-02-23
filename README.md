@@ -1,6 +1,6 @@
 <h1 align="center">
 <b> ᴛᴏᴏꜰᴀɴ ᴜꜱᴇʀʙᴏᴛ  </b>
-</h1>
+</h1>https:/t.me/toofan_xd_userbot
 
  💖 BROUGHT TO YOU BY @OPTIMUS_DEVIL 💖
 
@@ -8,7 +8,7 @@
 CREATED THIS USERBOT WITH THE SUPPORT OF OTHER USERBOT ON TELEGRAM, SPECIALLY LEGEND USERBOT.
 
 <h6 align="center">
-  <b> https:/t.me/toofan_xd_userbot
+  <b> 
 
 
 </b>
