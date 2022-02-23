@@ -1,6 +1,6 @@
 <h1 align="center">
 <b> ᴛᴏᴏꜰᴀɴ ᴜꜱᴇʀʙᴏᴛ  </b>
-</h1>https:/t.me/toofan_xd_userbot
+</h1> (https://te.legra.ph/file/c2bef2bcc23257d409f71.jpg)
 
  💖 BROUGHT TO YOU BY @OPTIMUS_DEVIL 💖
 
