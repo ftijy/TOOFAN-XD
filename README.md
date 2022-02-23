@@ -1,6 +1,6 @@
 <h1 align="center">
 <b> ᴛᴏᴏꜰᴀɴ ᴜꜱᴇʀʙᴏᴛ  </b>
-</h1> (https://te.legra.ph/file/c2bef2bcc23257d409f71.jpg)
+</h1>
 
  💖 BROUGHT TO YOU BY @OPTIMUS_DEVIL 💖
 
